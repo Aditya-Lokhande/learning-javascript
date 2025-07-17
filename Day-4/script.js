@@ -21,3 +21,5 @@ console.log(first_1 + second_1)
 // 3 confirm
 
 confirm("are you sure")
+
+alert("exit")
