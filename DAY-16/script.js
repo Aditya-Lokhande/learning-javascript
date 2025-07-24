@@ -11,6 +11,10 @@ console.log(res1)
 //now we use it on <p> means paragraph tag
 
 //add paragraph in html
+let res2=document.getElementsByTagName("p")
+console.log(res2)
+
+
 
 
 
